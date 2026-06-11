@@ -17,7 +17,7 @@ This 5-page Credit Risk framework evaluates a vehicle loan portfolio. The dashbo
 * **Key Metrics & Visuals:** 
   * Metrics: Delinquency Rate (55.00%), Total Active Loans (385), Average Current Balance ($805.46K), and Average LTV (0.57).
   * Charts: A **Delinquency Trend Over Time** line chart showcasing volume spikes between 2023 and 2024[cite: 1], alongside a **Delinquency Distribution** pie chart indicating that **87% (5.19K loans)** remain in 'Current' status[cite: 1].
-* ![Delinquency & Risk Monitoring](Delinquency and risk monitoring.png)
+ ![Delinquency & Risk Monitoring](Delinquency and risk monitoring.png)
 
 ---
 
@@ -26,7 +26,7 @@ This 5-page Credit Risk framework evaluates a vehicle loan portfolio. The dashbo
 * **Key Metrics & Visuals:**
   * Charts: **State-wise Portfolio Exposure** (led heavily by Chhattisgarh and Madhya Pradesh) and a multi-sliced **Vehicle Brand Distribution** (led by Hyundai at 12.4% and Volkswagen at 12.2%).
   * Yield Trackers: Cross-filtering supported by an **Average Interest Rate KPI card sitting at 11.01%**.
-* ![Portfolio Exposure & Composition](Portfolio Exposure and Composition.png)
+![Portfolio Exposure & Composition](Portfolio Exposure and Composition.png)
 
 ---
 
@@ -35,7 +35,7 @@ This 5-page Credit Risk framework evaluates a vehicle loan portfolio. The dashbo
 * **Key Metrics & Visuals:**
   * Metrics: **Total Delinquent Exposure ($118.67M)**, Total Loss Amount ($1M), and Average LGD (50%).
   * Charts: An **LGD vs Interest Rate** scatter plot matrix and a **Vehicle-Type Risk Analysis** bar chart showing Compact SUVs and SUVs as the highest-risk contributors.
-* ![Loss & Default Analysis](Loss and Default Analysis.png)
+ ![Loss & Default Analysis](Loss and Default Analysis.png)
 
 ---
 
@@ -43,7 +43,7 @@ This 5-page Credit Risk framework evaluates a vehicle loan portfolio. The dashbo
 * **Objective:** Documenting historic growth pipelines alongside customer monthly repayment profiles.
 * **Key Metrics & Visuals:**
   * Charts: A **Loan Origination Trend** documenting volume shifts from 2021 through 2024 (peaking in 2022 at 140 loans) and an **EMI vs Vehicle Type** chart contrasting MUV/SUV outlays (~$35K) against Hatchbacks (~$13K).
-* ![Loan Portfolio Performance](Loan Portfolio Performance.png)
+ ![Loan Portfolio Performance](Loan Portfolio Performance.png)
 
 ---
 
@@ -51,7 +51,7 @@ This 5-page Credit Risk framework evaluates a vehicle loan portfolio. The dashbo
 * **Objective:** Advanced credit risk modeling mapping lifecycle decay and loss stabilization across loan cohorts.
 * **Key Metrics & Visuals:**
   * Charts: A **Vintage Loss Curve** tracking the Average Cumulative Net Loss Rate across Months on Book (MOB) to identify loss seasoning boundaries, paired with a stepping **Amortization Profile (Pool Factor)** displaying pool erosion down to 0.23 by month 35.
-* ![Vintage & Amortization Analysis](Static Pool Analysis.png)
+  ![Vintage & Amortization Analysis](Static Pool Analysis.png)
 
 ---
 
